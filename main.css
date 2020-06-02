@@ -1,0 +1,29 @@
+body {
+    background: url("./assets/hatter.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 70%;
+}
+
+div {
+    padding: 3% 0;
+    margin-left: 10%;
+}
+
+.idezet {
+    text-align: center;
+    font-size: 1.75em;
+    color: white;
+    font-weight: 150;
+    font-family: 'Amatic SC', cursive;
+}
+
+.forras {
+    text-align: right;
+    font-weight: bold;
+}
+
+hr {
+    width: 50%;
+    background-color: orchid;
+}
